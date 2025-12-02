@@ -1,0 +1,4 @@
+.build/
+.cache/
+*.[oda]
+compile_commands.json
