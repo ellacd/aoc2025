@@ -1,0 +1,7 @@
+solve
+input
+*.[oda]
+*.so
+.cache/
+.build/
+compile_commands.json
