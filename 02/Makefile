@@ -42,4 +42,4 @@ release: CFLAGS += -O2 -DNDEBUG
 release: fclean $(EXE)
 
 .PHONY: clean fclean test
-.SILENT:
+# .SILENT:
