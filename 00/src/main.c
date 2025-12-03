@@ -1,0 +1,6 @@
+// Stub
+
+int main(void)
+{
+
+}
